@@ -1,6 +1,6 @@
 const heroImages = {
-  original: "images/pexels-uhgo-3160544.jpg",
-  truck: "images/pexels-500photos-com-15338-93398.jpg",
+  original: "imagenes/pexels-uhgo-3160544.jpg",
+  truck: "imagenes/pexels-500photos-com-15338-93398.jpg",
 };
 let currentScale = 1;
 let scrollY = 0;
